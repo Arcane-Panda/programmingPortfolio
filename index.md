@@ -6,6 +6,7 @@ A collection of projects that I have worked on, including both personal and grou
 
 ### Group Work
 **__Chess__**
+
 An ASCII based Chess game written in C++
 
 [Source Code](https://github.com/Arcane-Panda/Chess/blob/master/source/main/chessMain.cpp) 
