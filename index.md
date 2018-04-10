@@ -12,4 +12,9 @@ An ASCII based Chess game written in C++
 [Source Code](https://github.com/Arcane-Panda/Chess/blob/master/source/main/chessMain.cpp) 
 
 ### Personal Projects
-here are some things that i done did
+
+**__Calculator__**
+
+A working calculator written in Processing
+
+[Source Code](https://github.com/Arcane-Panda/calculator)
