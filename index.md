@@ -11,6 +11,8 @@ An ASCII based Chess game written in C++
 
 [Source Code](https://github.com/Arcane-Panda/Chess/blob/master/source/main/chessMain.cpp) 
 
+![Chess App](https://github.com/Arcane-Panda/programmingPortfolio/blob/master/realGUI.png)
+
 ### Personal Projects
 
 **__Calculator__**
