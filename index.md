@@ -7,7 +7,7 @@ A collection of projects that I have worked on, including both personal and grou
 ## Group Work
 ### Chess
 
-  An ASCII based Chess game written in C++
+    An ASCII based Chess game written in C++
 
 [Source Code](https://github.com/Arcane-Panda/Chess/blob/master/source/main/chessMain.cpp) 
 
@@ -17,7 +17,7 @@ A collection of projects that I have worked on, including both personal and grou
 
 ### Calculator
 
-  A working calculator written in Processing
+    A working calculator written in Processing
 
 [Source Code](https://github.com/Arcane-Panda/calculator)
 
@@ -25,7 +25,7 @@ A collection of projects that I have worked on, including both personal and grou
 
 ### Shape Calculator
 
-  Calculates the area and volume of given shapes
+    Calculates the area and volume of given shapes
 
 [Source Code](https://github.com/Arcane-Panda/Shape-Calculator)
 
