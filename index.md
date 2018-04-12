@@ -21,7 +21,7 @@ A collection of projects that I have worked on, including both personal and grou
 
 [Source Code](https://github.com/Arcane-Panda/calculator)
 
-![Calculator App](https://github.com/Arcane-Panda/programmingPortfolio/blob/master/calculator.png)
+<img src="calculator.png" alt="Calculator App"/>
 
 ### Shape Calculator
 
@@ -29,4 +29,4 @@ A collection of projects that I have worked on, including both personal and grou
 
 [Source Code](https://github.com/Arcane-Panda/Shape-Calculator)
 
-![Shape App](https://github.com/Arcane-Panda/programmingPortfolio/blob/master/Shape%20Tester.png)
+<img src="Shape Tester.png" alt="Shape App"/>
