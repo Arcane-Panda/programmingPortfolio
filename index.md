@@ -21,6 +21,8 @@ A working calculator written in Processing
 
 [Source Code](https://github.com/Arcane-Panda/calculator)
 
+![Calculator App](https://github.com/Arcane-Panda/programmingPortfolio/blob/master/calculator.png)
+
 ### Shape Calculator
 
 Calculates the area and volume of given shapes
