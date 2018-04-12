@@ -21,7 +21,7 @@ A collection of projects that I have worked on, including both personal and grou
 
 [Source Code](https://github.com/Arcane-Panda/calculator)
 
-<img src="calculator.png" alt="Calculator App"/>
+<img src="calculator.png" alt="Calculator App" style="width:633px;height:751px;"/>
 
 ### Shape Calculator
 
