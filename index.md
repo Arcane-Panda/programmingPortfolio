@@ -11,7 +11,7 @@ A collection of projects that I have worked on, including both personal and grou
 
 [Source Code](https://github.com/Arcane-Panda/Chess/blob/master/source/main/chessMain.cpp) 
 
-![Chess App](https://github.com/Arcane-Panda/programmingPortfolio/blob/master/realGUI.png)
+<img src="realGUI.png" alt="Chess App"/>
 
 ## Personal Projects
 
