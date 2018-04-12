@@ -4,7 +4,8 @@ A collection of projects that I have worked on, including both personal and grou
 
 **Contact me at:** gigakong18@gmail.com
 
-## Group Work
+Group Work
+--------------
 
 ### Chess
 
@@ -14,7 +15,8 @@ A collection of projects that I have worked on, including both personal and grou
 
 <img src="realGUI.png" alt="Chess App"/>
 
-## Personal Projects
+Personal Projects
+ --------- 
 
 ### Calculator
 
