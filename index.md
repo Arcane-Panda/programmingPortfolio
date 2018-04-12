@@ -5,6 +5,7 @@ A collection of projects that I have worked on, including both personal and grou
 **Contact me at:** gigakong18@gmail.com
 
 ## Group Work
+
 ### Chess
 
     An ASCII based Chess game written in C++
@@ -23,6 +24,7 @@ A collection of projects that I have worked on, including both personal and grou
 
 <img src="calculator.png" alt="Calculator App" style="width:633px;height:751px;"/>
 
+
 ### Shape Calculator
 
     Calculates the area and volume of given shapes
@@ -31,6 +33,7 @@ A collection of projects that I have worked on, including both personal and grou
 
 <img src="Shape Tester.png" alt="Shape App"/>
 
+
 ### Space Game
 
         A game similar to Galaga, featuring asteroids, missles, and enemies
@@ -38,3 +41,11 @@ A collection of projects that I have worked on, including both personal and grou
 [Source Code](https://github.com/Arcane-Panda/SpaceGame)
 
 <img src="SpaceGame.png" alt="Space Game"/>
+
+
+### Screensaver
+
+        A simple and elegant screensaver
+
+[Source Code](https://github.com/Arcane-Panda/ScreenSaver)
+
