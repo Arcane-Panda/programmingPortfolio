@@ -4,8 +4,8 @@ A collection of projects that I have worked on, including both personal and grou
 
 **Contact me at:** gigakong18@gmail.com
 
-### Group Work
-##### Chess
+## Group Work
+#### Chess
 
 An ASCII based Chess game written in C++
 
@@ -13,15 +13,15 @@ An ASCII based Chess game written in C++
 
 ![Chess App](https://github.com/Arcane-Panda/programmingPortfolio/blob/master/realGUI.png)
 
-### Personal Projects
+## Personal Projects
 
-##### Calculator
+#### Calculator
 
 A working calculator written in Processing
 
 [Source Code](https://github.com/Arcane-Panda/calculator)
 
-##### Shape Calculator
+#### Shape Calculator
 
 Calculates the area and volume of given shapes
 
