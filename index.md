@@ -12,9 +12,9 @@ Group Work
     An ASCII based Chess game written in C++
 
 [Source Code](https://github.com/Arcane-Panda/Chess/blob/master/source/main/chessMain.cpp) 
-<img src="chessMenu.png" alt="Chess Menu" style="width:361px;height:316px;"/>
+<img src="chessMenu.png" alt="Chess Menu" style="width:361px;height:315px;"/>
 
-<img src="realGUI.png" alt="Chess App"/>
+<img src="cehssGUI.png" alt="Chess App"/>
 
 Personal Projects
  --------- 
