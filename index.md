@@ -17,8 +17,7 @@ Group Work
 
 <img src="chessGUI.png" alt="Chess App"/>
 
-Personal Projects
------------------
+## Personal Projects
 
 ### Calculator
 
