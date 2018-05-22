@@ -15,7 +15,7 @@ Group Work
 
 <img src="chessMenu.png" alt="Chess Menu" style="width:361px;height:315px;"/>
 
-<img src="chessGUI.png" alt="Chess App"/>
+<img src="chessGUI.png" alt="Chess App" style="width:361px;height:316px;"/>
 
 ## Personal Projects
 
